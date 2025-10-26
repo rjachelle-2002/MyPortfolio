@@ -5,10 +5,11 @@ Welcome to my Portfolio! This platform highlights my competencies, achievements,
 
 | 🧩 Project Link | 💼 Data Analysis Tools |
 |:----------------|:----------------------|
-| [Superstore](https://github.com/rjachelle-2002/superstore) |**CSV File Import** – Imported raw datasets to Excel |
+| [Superstore](https://github.com/rjachelle-2002/Superstore-Excel-Project.git) |**CSV File Import** – Imported raw datasets to Excel |
 |  | **Power Query** – Used for data cleaning and formatting |
-|  | **Formulas & Functions** – (SUM, IF, COUNTIF, Extract Year, Merge) |
+|  | **Formulas & Functions** – (SUM,SUBTRACT, Extract Year, Merge) |
 |  | **Pivot Tables** – Used for data aggregation, filtering, and sorting |
+|  | **Slicers** - For the data to be easily be filtered and makign the dahsboard interactive.|
 |  | **Charts** – Visualized aggregated data to answer business questions |
 
 
