@@ -1,6 +1,8 @@
 # My Portfolio
 Welcome to my Portfolio! This platform highlights my competencies, achievements, and the projects that demonstrate my capabilities in my chosen field.
 
+## EXCEL
+
 | 🧩 Project Link | 💼 Data Analysis Tools |
 |:----------------|:----------------------|
 | [Superstore](https://github.com/rjachelle-2002/superstore) |**CSV File Import** – Imported raw datasets to Excel |
